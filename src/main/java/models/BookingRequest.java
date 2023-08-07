@@ -1,3 +1,7 @@
+package toursandtravels.model;
+
+import java.util.List;
+
 public class BookingRequest {
     private String requestId;
     private String userId;

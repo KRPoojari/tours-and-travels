@@ -1,3 +1,5 @@
+package toursandtravels.model;
+
 public class Location {
     private String locationId;
     private String name;

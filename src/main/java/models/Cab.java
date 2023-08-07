@@ -1,3 +1,5 @@
+package toursandtravels.model;
+
 public class Cab {
     private String cabId;
     private String name;

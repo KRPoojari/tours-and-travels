@@ -1,3 +1,5 @@
+package toursandtravels.model;
+
 public class Feedback {
     private String feedbackId;
     private String userId;

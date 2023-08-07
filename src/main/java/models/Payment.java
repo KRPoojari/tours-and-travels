@@ -1,3 +1,5 @@
+package toursandtravels.model;
+
 public class Payment {
     private String paymentId;
     private String userId;
